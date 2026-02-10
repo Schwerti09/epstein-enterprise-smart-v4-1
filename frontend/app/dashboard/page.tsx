@@ -1,0 +1,1 @@
+export default function Dash() { return <div className="p-10 text-2xl font-bold">Enterprise Dashboard Active. <br/><span className="text-sm font-normal text-slate-400">Connect Database to see data.</span></div> }
